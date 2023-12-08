@@ -10,7 +10,8 @@
   "author": "engineering@kinde.com",
   "license": "ISC",
   "dependencies": {
-    "@kinde-oss/kinde-node-express": "^1.0.10",
+    "@kinde-oss/kinde-node-express": "^1.0.12",
+    "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express": "^4.18.0",
     "nodemon": "^2.0.20",
